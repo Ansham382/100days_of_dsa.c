@@ -5,7 +5,6 @@ Input:
 
 Output:
 - Print YES if palindrome, otherwise NO
-
 Example:
 Input:
 level

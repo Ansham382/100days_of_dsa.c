@@ -10,6 +10,7 @@ Output:
 - Print the updated array (n+1 integers) in a single line, space-separated
 
 Example:
+
 Input:
 5
 1 2 4 5 6
